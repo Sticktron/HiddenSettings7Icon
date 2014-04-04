@@ -4,7 +4,7 @@ An icon for launching HiddenSettings7!
 
 Ideal if you are having trouble using the Control Center button due to an incompatibility with another tweak.
 
-[Screenshot](http://i.imgur.com/Nz6vmdz)
+[Screenshot](http://i.imgur.com/Nz6vmdz.png)
 
 Filling a request for the [r/jailbreak/](http://reddit.com/r/jailbreak/) community.
 
