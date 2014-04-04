@@ -3,7 +3,7 @@ Name: HiddenSettings7 Icon
 Depends: mobilesubstrate, me.devbug.hiddensettings7, firmware (>= 7.0)
 Version: 1.0.1
 Architecture: iphoneos-arm
-Description: Launch HiddenSettings 7 from a SpringBoard Icon.
+Description: An icon for launching HiddenSettings7!
 Maintainer: Sticktron
 Author: Sticktron
 Section: Tweaks
