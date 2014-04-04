@@ -1,0 +1,29 @@
+{
+	CFBundleDisplayName = "HS/7";
+	CFBundleExecutable = HiddenSettings7Icon;
+	CFBundleIconFiles = (
+		"Icon-60.png",
+		"Icon-60@2x.png",
+		"Icon-76.png",
+		"Icon-76@2x.png",
+	);
+	CFBundleIdentifier = "com.sticktron.hs7icon";
+	"CFBundleInfoDictionaryVersion" = "6.0";
+	CFBundlePackageType = APPL;
+	CFBundleSignature = "????";
+	"CFBundleSupportedPlatforms" = (
+		iPhoneOS,
+	);
+	CFBundleVersion = "1.0";
+	DTPlatformName = iphoneos;
+	DTSDKName = "iphoneos3.0";
+	LSRequiresIPhoneOS = 1;
+	MinimumOSVersion = "7.0";
+
+	"UISupportedInterfaceOrientations~ipad" = (
+		"UIInterfaceOrientationPortrait",
+	);
+	"UISupportedInterfaceOrientations" = (
+		"UIInterfaceOrientationPortrait",
+	);
+}

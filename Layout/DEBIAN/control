@@ -1,0 +1,9 @@
+Package: com.sticktron.hs7icon
+Name: HiddenSettings7 Icon
+Depends: mobilesubstrate, firmware (>= 7.0)
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Launch HiddenSettings 7 from a SpringBoard Icon.
+Maintainer: Sticktron
+Author: Sticktron
+Section: Tweaks
