@@ -1,5 +1,4 @@
-HiddenSettings7Icon
-===================
+## HiddenSettings7Icon
 
 An icon for launching HiddenSettings7!
 
@@ -16,7 +15,6 @@ You may not use any of the supplied materials for any commercial use whatsoever.
 
 * iOS 7 only
 * ARM64 supported
-
 
 ### Credits
 
