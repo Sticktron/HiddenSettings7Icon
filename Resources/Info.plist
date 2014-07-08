@@ -1,6 +1,6 @@
 {
-	CFBundleDisplayName = "HS/7";
-	CFBundleExecutable = HiddenSettings7Icon;
+	CFBundleDisplayName = "Hidden Settings";
+	CFBundleExecutable = HS7IconApp;
 	CFBundleIconFiles = (
 		"Icon-60.png",
 		"Icon-60@2x.png",
@@ -19,7 +19,6 @@
 	DTSDKName = "iphoneos3.0";
 	LSRequiresIPhoneOS = 1;
 	MinimumOSVersion = "7.0";
-
 	"UISupportedInterfaceOrientations~ipad" = (
 		"UIInterfaceOrientationPortrait",
 	);

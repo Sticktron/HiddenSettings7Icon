@@ -1,9 +1,11 @@
 Package: com.sticktron.hs7icon
 Name: HiddenSettings7 Icon
 Depends: mobilesubstrate, me.devbug.hiddensettings7, firmware (>= 7.0)
-Version: 1.0.1
+Version: 1.0.2
 Architecture: iphoneos-arm
-Description: An icon for launching HiddenSettings7!
+Description: An icon for launching HiddenSettings7, so you can hide the button in the Control Center.
 Maintainer: Sticktron
 Author: Sticktron
+Homepage: http://www.sticktron.com
+Icon: file:///Applications/HS7IconApp.app/Icon-60.png
 Section: Tweaks
